@@ -53,7 +53,7 @@ Learn more about [<Constant name="cloud" /> features](/docs/cloud/about-cloud/d
     icon="fabric"/>
 
 <Card
-    title="Quickstart for dbt and Redshift"
+  
     body="Learn how to connect dbt to Redshift for more agile data transformations."
     link="https://docs.getdbt.com/guides/redshift"
     icon="redshift"/>
